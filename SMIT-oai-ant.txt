@@ -1,0 +1,48 @@
+Selective MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+Notwithstanding the foregoing, no rights under this License are granted to
+any Excluded Party, and any exercise of rights under this License by an
+Excluded Party is unauthorized and constitutes copyright infringement,
+regardless of whether the Excluded Party obtained the Software directly from
+the copyright holder or through any third party. "Excluded Party" means any
+natural person or legal entity identified in Appendix A, and further includes:
+(a) any legal entity that directly or indirectly controls, is controlled by,
+or is under common control with an identified entity, where "control" means
+ownership of more than fifty percent (50%) of the outstanding voting
+securities or equivalent power to direct management and policies; (b) any
+successor or assign of an identified entity arising from merger, acquisition,
+reorganization, or change of name; and (c) any agent, contractor, or
+intermediary acting on behalf of, at the direction of, or primarily for the
+benefit of an identified entity in connection with the Software. A person or
+entity is bound by this exclusion upon obtaining actual or constructive
+knowledge that they are, or are acting on behalf of, an Excluded Party.
+Constructive knowledge arises when a reasonable person in the same position
+would have known of the exclusion. The use of a third-party intermediary,
+subsidiary, contractor, or agent to obtain or exercise rights in the Software
+does not cure an Excluded Party's lack of authorization under this License.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Appendix A -- Excluded Parties
+
+Organizations
+- OpenAI Group PBC
+- Anthropic, PBC
